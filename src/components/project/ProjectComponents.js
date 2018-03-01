@@ -13,7 +13,7 @@ import {
 // </TableBody>
 const ProjectComponents = ()=>{
   return(
-    <Card className="cardConte">
+    <Card className="cardConte project_box">
      <CardTitle title="Projects" />
      <Table
        multiSelectable={true}

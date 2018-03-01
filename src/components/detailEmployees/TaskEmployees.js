@@ -23,11 +23,11 @@ const TaskEmployees = ({tasks}) => (
             adjustForCheckbox={false}
             >
             <TableRow>
-              <TableHeaderColumn>Name Task</TableHeaderColumn>
-              <TableHeaderColumn>Status</TableHeaderColumn>
-              <TableHeaderColumn>Date Start</TableHeaderColumn>
-              <TableHeaderColumn>Date Finsh</TableHeaderColumn>
-              <TableHeaderColumn> priority</TableHeaderColumn>
+              <TableHeaderColumn>Nombre Task</TableHeaderColumn>
+              <TableHeaderColumn>Estatus</TableHeaderColumn>
+              <TableHeaderColumn>Fecha de Inicio</TableHeaderColumn>
+              <TableHeaderColumn>Fecha de Terminación</TableHeaderColumn>
+              <TableHeaderColumn>Prioridad</TableHeaderColumn>
             </TableRow>
           </TableHeader>
           <TableBody displayRowCheckbox={false} >

@@ -1,3 +1,8 @@
+h1, h2, h3, h4{
+    font-family: 'avenir-light', sans-serif;
+    color:#676668;
+    /*color:pink;*/
+}
 .dash{
     background-color:  #f2f6fa;
     width:100%;
@@ -9,7 +14,6 @@
 }
 .dash h2{
     padding: 0 10px 0 0px;
-    color: #676668;
     text-transform: none;
     white-space: nowrap;
 
@@ -39,7 +43,6 @@
 .notas h3{
     padding: 0 10px 0 0px;
     font-size: 24px;
-    color: #676668;
     font-family: 'avenir-light', sans-serif;
     text-align: left;
     text-transform: none;

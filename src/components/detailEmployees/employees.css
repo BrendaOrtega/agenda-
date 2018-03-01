@@ -1,3 +1,15 @@
+h1, h2, h3, h4{
+  font-family: 'avenir-light', sans-serif;
+  color:#676668;
+  /*color:pink;*/
+}
+.box_detail{
+  width:100%;
+  height:auto;
+  padding-bottom: 50px;
+  background-attachment: fixed;
+  background-color: #f2f6fa;
+}
 .perfil-container{
   width: 57%;
   margin: 0 auto;

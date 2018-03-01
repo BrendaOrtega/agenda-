@@ -16,7 +16,7 @@ class DetailEmployeesPage extends Component{
         console.log(employee)
         if(!fetched)return(<Loader/>);
         return(
-                <div>
+                <div className="box_detail">
                    <DetailComponents
                         {...employee}
                         tasks={tasks}

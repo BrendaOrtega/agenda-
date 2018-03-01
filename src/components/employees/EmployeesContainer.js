@@ -90,7 +90,7 @@ class EmployeesContainer extends Component{
     const {user,userAll,fetched} = this.props;
   if(!fetched)return<Loader/>
     return(
-      <div className=" tareas_box">
+      <div className="tareas_box" >
           <div className="cubierta">
 
                 <EmployeesComponents
